@@ -1,0 +1,11 @@
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\bin\Debug\netcoreapp2.0\RecvBroadcst.deps.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\bin\Debug\netcoreapp2.0\RecvBroadcst.runtimeconfig.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\bin\Debug\netcoreapp2.0\RecvBroadcst.runtimeconfig.dev.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\bin\Debug\netcoreapp2.0\RecvBroadcst.dll
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\bin\Debug\netcoreapp2.0\RecvBroadcst.pdb
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.AssemblyInfoInputs.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.AssemblyInfo.cs
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.dll
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\RecvBroadcst\obj\Debug\netcoreapp2.0\RecvBroadcst.pdb

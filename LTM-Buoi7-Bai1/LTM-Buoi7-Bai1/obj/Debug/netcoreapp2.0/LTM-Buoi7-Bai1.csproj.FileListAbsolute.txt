@@ -1,0 +1,11 @@
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\bin\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.deps.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\bin\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.runtimeconfig.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\bin\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.runtimeconfig.dev.json
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\bin\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.dll
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\bin\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.pdb
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.AssemblyInfoInputs.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.AssemblyInfo.cs
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.dll
+D:\Năm 3\LTM\LTM-Buoi7-Bai1\LTM-Buoi7-Bai1\obj\Debug\netcoreapp2.0\LTM-Buoi7-Bai1.pdb

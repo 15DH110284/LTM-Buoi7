@@ -1,0 +1,9 @@
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\bin\Debug\LTM-Buoi7-Bai3.exe.config
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\bin\Debug\LTM-Buoi7-Bai3.exe
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\bin\Debug\LTM-Buoi7-Bai3.pdb
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM-Buoi7-Bai3.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM_Buoi7_Bai3.Properties.Resources.resources
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM-Buoi7-Bai3.csproj.GenerateResource.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM-Buoi7-Bai3.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM-Buoi7-Bai3.exe
+D:\Năm 3\LTM\LTM-Buoi7-Bai3\LTM-Buoi7-Bai3\obj\Debug\LTM-Buoi7-Bai3.pdb
